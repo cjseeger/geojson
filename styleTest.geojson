@@ -4,6 +4,6 @@
 "features": [
 { "type": "Feature", "properties": { "Id": 0, "POINT_X": -92.761510714, "POINT_Y": 41.746199212599997, "marker-color": "#976AAE", "marker-size": "small" }, "geometry": { "type": "Point", "coordinates": [ -92.761510714048157, 41.746199212623615 ] } },
 { "type": "Feature", "properties": { "Id": 1, "POINT_X": -92.758981907700004, "POINT_Y": 41.739424892099997, "marker-color": "#976AAE", "marker-size": "medium" }, "geometry": { "type": "Point", "coordinates": [ -92.758981907688835, 41.739424892145081 ] } },
-{ "type": "Feature", "properties": { "Id": 2, "POINT_X": -92.746754145099999, "POINT_Y": 41.746154033400003, "marker-color": "#976AAE", "marker-size": "large" }, "geometry": { "type": "Point", "coordinates": [ -92.746754145087621, 41.746154033381934 ] } }
+{ "type": "Feature", "properties": { "Id": 2, "POINT_X": -92.746754145099999, "POINT_Y": 41.746154033400003, "marker-color": "#976AAE", "marker-size": large }, "geometry": { "type": "Point", "coordinates": [ -92.746754145087621, 41.746154033381934 ] } }
 ]
 }
